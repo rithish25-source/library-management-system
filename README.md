@@ -13,6 +13,20 @@ A RESTful backend application built with **Spring Boot** that manages libraries,
 - **Global exception handling**: clean, meaningful error responses with proper HTTP status codes (404 Not Found, 409 Conflict)
 - **API documentation**: interactive Swagger / OpenAPI UI
 
+## 📸 Screenshots
+
+### Book APIs
+![Book APIs](screenshots/swagger-book.png)
+
+### Library APIs
+![Library APIs](screenshots/swagger-library.png)
+
+### User APIs
+![User APIs](screenshots/swagger-user.png)
+
+### Address APIs
+![Address APIs](screenshots/swagger-address.png)
+
 ## 🛠️ Tech Stack
 
 | Area | Technology |
