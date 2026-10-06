@@ -190,5 +190,5 @@ Add a book (`POST /book`):
 ## 👤 Author
 
 **Rithish Kumar S**
-GitHub: [@rithish25-source](https://github.com/rithish25-source)
-LinkedIn: [rithish-kumar-s-161895281](https://www.linkedin.com/in/rithish-kumar-s-161895281)
+- GitHub: [@rithish25-source](https://github.com/rithish25-source)
+- LinkedIn: [rithish-kumar-s-161895281](https://www.linkedin.com/in/rithish-kumar-s-161895281)
